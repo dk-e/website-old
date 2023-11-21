@@ -12,4 +12,4 @@ my personal website - zurly.lol
 ####  3. Edit ```index.html``` as needed for your usage.
 
 ## credits
-myself
+myself (@initialised)
